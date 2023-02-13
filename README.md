@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey!👋
+
+My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025, and Master's in 2026. 
+
+I am interested in data science, deep learning, machine learning, and artificial intelligence. My major concentration will be Algorithms and Theory, as well as Artificial Intelligence. I have a strong background in data science and data analysis, and I am adept in communication to achieve business objectives. 
+
 
 <!--
 **ethanwfang/ethanwfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
