@@ -7,7 +7,9 @@ I am interested in full-stack development (front-end), data science, deep learni
 
 I am currently working on creating Deep Learning models in image analysis for SDLE. 
 
-
+Contact information:
+ewf22@case.edu
+theethanfang@gmail.com
 
 <!--
 **ethanwfang/ethanwfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
