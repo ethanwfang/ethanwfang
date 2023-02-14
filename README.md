@@ -7,6 +7,10 @@ I am interested in full-stack development (front-end), data science, deep learni
 
 I am currently working on creating Deep Learning models in image analysis for SDLE. 
 
+<h3>Projects</h3>
+<h4>Asteroids</h4>
+
+
 Contact information:
 ewf22@case.edu
 theethanfang@gmail.com
