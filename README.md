@@ -8,7 +8,8 @@ I am interested in full-stack development (front-end), data science, deep learni
 I am currently working on creating deep learning models using keras and tensorflow. 
 
 <h3>Projects</h3>
-<ul>Asteroids</ul>
+- Asteroids
+
 
 
 Contact information:
