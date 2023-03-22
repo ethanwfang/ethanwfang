@@ -5,10 +5,10 @@ My name is Ethan and I am an undergraduate student at Case Western Reserve Unive
 
 I am interested in full-stack development (front-end), data science, deep learning, machine learning, and artificial intelligence.  I have a strong background in data science and data analysis, and I am adept in communication to achieve business objectives. 
 
-I am currently working on creating Deep Learning models in image analysis for SDLE. 
+I am currently working on creating deep learning models using keras and tensorflow. 
 
 <h3>Projects</h3>
-<h4>Asteroids</h4>
+<ul>Asteroids</ul>
 
 
 Contact information:
