@@ -5,7 +5,7 @@ My name is Ethan and I am an undergraduate student at Case Western Reserve Unive
 
 I have a strong background in data science and data analysis, but I would love to learn more about honestly any topic.
 
-I am currently working on creating deep learning models using keras and Tensorflow. 
+I am currently working on creating deep learning models using keras and Tensorflow at SDLE.
 
 
 
