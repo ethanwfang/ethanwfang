@@ -9,8 +9,8 @@ I am currently working on creating deep learning models using keras and Tensorfl
 
 
 
-Contact information:
-ewf22@case.edu
+Contact information:<br>
+ewf22@case.edu <br>
 theethanfang@gmail.com
 
 <!--
