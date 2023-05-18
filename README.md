@@ -11,7 +11,8 @@ I am currently working on creating deep learning models using keras and Tensorfl
 
 Contact information:<br>
 ewf22@case.edu <br>
-theethanfang@gmail.com
+theethanfang@gmail.com<br>
+<a href = "https://ethanwfang.github.io/index.html">Personal Website
 
 <!--
 **ethanwfang/ethanwfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
