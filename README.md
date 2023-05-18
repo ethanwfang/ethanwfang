@@ -7,12 +7,12 @@ I have a strong background in data science and data analysis, but I would love t
 
 I am currently working on creating deep learning models using keras and Tensorflow at SDLE.
 
-
+<a href = "https://ethanwfang.github.io/index.html">Personal Website about me!
 
 Contact information:<br>
 ewf22@case.edu <br>
 theethanfang@gmail.com<br>
-<a href = "https://ethanwfang.github.io/index.html">Personal Website about me!
+
 
 <!--
 **ethanwfang/ethanwfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
