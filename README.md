@@ -1,7 +1,7 @@
 ### <h1>Ethan Fang</h1>
 <h3>About Me</h3>
 
-My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025, with a concentration in artificial intelligence and software engineering, and my Master's Degree in 2026. 
+My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 (concentration in artificial intelligence and software engineering), and my Master's Degree in 2026. 
 
 I have a strong background in data science and data analysis, but I would love to learn more about honestly any topic.
 
