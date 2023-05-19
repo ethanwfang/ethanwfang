@@ -5,7 +5,9 @@ My name is Ethan and I am an undergraduate student at Case Western Reserve Unive
 
 I have a strong background in data science and data analysis, but I would love to learn more about honestly any topic.
 
-I am currently working on creating deep learning models using keras and Tensorflow at SDLE.
+I am currently working on creating deep learning models using keras and Tensorflow at the Solar Durability and Lifetime Extension Center, 
+a research institution part of the Great Lakes Energy Institute on campus. I am mostly doing the data cleaning work, but am creating
+scripts for automation of the cleaning process.
 
 <a href = "https://ethanwfang.github.io/index.html">Personal Website about me!
 
