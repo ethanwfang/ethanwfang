@@ -4,7 +4,7 @@
 My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 with a concentration in AI and Software Engineering. Then, I will complete my Master's Degree in CS by 2026.
 I have a strong background in data science and data analysis, but I would love to learn more about honestly any topic.
 
-I am currently working on creating deep learning models using keras and Tensorflow at the Solar Durability and Lifetime Extension Center, 
+I am currently creating deep learning models working as a Data Scientist at the Solar Durability and Lifetime Extension Center, 
 a research institution part of the Great Lakes Energy Institute on campus. I am mostly doing the data cleaning work, but am creating
 scripts for automation of the cleaning process.
 
