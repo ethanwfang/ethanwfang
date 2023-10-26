@@ -9,7 +9,7 @@ From October 2022 to September 2023 I worked at SDLE, a materials science resear
 Starting in August 2023, I started an internship with Progressive Insurance (Flo fan since day 1!). Here, I am working in a team of 7 other contracted students from Case. We are developing a software solution to manage frontline employee stress. I am working on an employee-manager chat feature using React.js, Typescript, and Firebase for backend.  
 
 <h3></h3>
-<a href = "https://ethanwfang.github.io/index.html">Personal Website about me!
+<a href = "https://ethanwfang.github.io/index.html">Personal Website about me!</a>
 
 📫 Contact information: ewf22@case.edu, theethanfang@gmail.com
 
