@@ -1,4 +1,4 @@
-### <h1>Ethan Fang</h1>
+### <h1>Welcome to my GitHub!</h1>
 <h3>About Me</h3>
 
 My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 with a concentration in AI and Software Engineering. Then, I will complete my Master's Degree in CS by 2026. I plan to go to grad school for Financial Engineering after obtaining my Computer Science Masters.
