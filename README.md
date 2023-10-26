@@ -1,12 +1,10 @@
 ### <h1>Ethan Fang</h1>
 <h3>About Me</h3>
 
-My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 with a concentration in AI and Software Engineering. Then, I will complete my Master's Degree in CS by 2026.
-I have a strong background in data science and data analysis, but I would love to learn more about honestly any topic.
+My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 with a concentration in AI and Software Engineering. Then, I will complete my Master's Degree in CS by 2026. I plan to go to grad school for Financial Engineering after obtaining my Computer Science Masters.
 
-I am currently creating deep learning models working as a Data Scientist at the Solar Durability and Lifetime Extension Center, 
-a research institution part of the Great Lakes Energy Institute on campus. I am mostly doing the data cleaning work, but am creating
-scripts for automation of the cleaning process.
+<h3>Experience</h3>
+From October 2022 to September 2023 I worked at SDLE, a materials science research lab on campus, on a computer vision XRay Diffraction (XRD) project. My job there was to create a script that would segment alpha and beta rings from 2-Dimensional XRD images. Then, I would use the obtained information to generate data about the XRD using a custom ellipse-fitting algorithm, which would prove useful to several national labs working on XRD around the United States. You can find the published XRD package (I generated the entire documentation using docstrings, ReadTheDocs, and sphinx) at <a href = "https://pypi.org/project/XRDimage/#description">this link.
 
 <a href = "https://ethanwfang.github.io/index.html">Personal Website about me!
 
