@@ -6,6 +6,7 @@ My name is Ethan and I am an undergraduate student at Case Western Reserve Unive
 <h3>Experience</h3>
 From October 2022 to September 2023 I worked at SDLE, a materials science research lab on campus, on a computer vision XRay Diffraction (XRD) project. My job there was to create a script that would segment alpha and beta rings from 2-Dimensional XRD images. Then, I would use the obtained information to generate data about the XRD using a custom ellipse-fitting algorithm, which would prove useful to several national labs working on XRD around the United States. You can find the published XRD package (I generated the entire documentation using docstrings, ReadTheDocs, and sphinx) at <a href = "https://pypi.org/project/XRDimage/#description">this link.
 
+<h3></h3>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website about me!
 
 Contact information:<br>
