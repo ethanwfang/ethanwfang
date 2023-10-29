@@ -10,7 +10,7 @@ From October 2022 to September 2023 I worked at SDLE, a materials science resear
 
 Starting in August 2023, I started an internship with Progressive Insurance (Flo fan since day 1!). Here, I am working in a team of 7 other contracted students from Case. We are developing a software solution to manage frontline employee stress. I am working on an employee-manager chat feature using React.js and Typescript for frontend, and DataPlug and MongoDB for backend.  <br><br>
 
-I'm currently looking for any roles for Winter/Spring and Summer 2024. I am interested in data engineering, software development, and financial/risk analyst positions. Bring on the challenges!
+I'm currently looking for any roles for Winter/Spring and Summer 2024. I am interested in data engineering, software development, and financial/risk analyst positions. 
 
 <h3></h3>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website about me!</a>
