@@ -1,16 +1,17 @@
 ### <h1>Welcome to my GitHub!</h1>
 <h3>🌱About Me</h3>
 
-My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 with a concentration in AI and Software Engineering. Then, I will complete my Master's Degree in CS by 2026. I plan to go to grad school for Financial Engineering after obtaining my Computer Science Masters. <br><br>
+My name is Ethan and I am an undergraduate student at Case Western Reserve University. I am pursuing a BS/MS degree, finishing my Bachelor's degree in 2025 with a concentration in Algorithms and Theory. I plan to go to grad school for Financial Engineering or Computer Science. <br><br>
 
 On campus, I am the VP of CWRU Club Tennis and a first violinist for the Symphony Orchestra.
 
 <h3>🔭Experience</h3>
-From October 2022 to September 2023 I worked at SDLE, a materials science research lab on campus, on a computer vision XRay Diffraction (XRD) project. My job there was to create a script that would segment alpha and beta rings from 2-Dimensional XRD images. Then, I would use the obtained information to generate data about the XRD using a custom ellipse-fitting algorithm, which would prove useful to several national labs working on XRD around the United States. You can find the published XRD package (I generated the entire documentation using docstrings, ReadTheDocs, and sphinx) at <a href = "https://pypi.org/project/XRDimage/#description">this link.</a> In this project, I learned a lot about machine learning algorithms and using Python libraries such as scikit-learn, keras, tensorflow, numpy, pandas, and pytorch. <br><br>
+From October 2022 to September 2023 I worked on a computer vision XRay Diffraction (XRD) project at SDLE (Solar Durability and Lifetime Extension Center). My job there was to create a script that would segment alpha and beta rings from 2-Dimensional XRD images. Then, I would use the obtained information to generate data about the XRD using a custom ellipse-fitting algorithm, which would prove useful to several national labs working on XRD around the United States. You can find the published XRD package (I generated the entire documentation using docstrings, ReadTheDocs, and sphinx) at <a href = "https://pypi.org/project/XRDimage/#description">this link.</a> In this project, I learned a lot about machine learning algorithms and using Python libraries such as scikit-learn, numpy, pandas, and pytorch. \
 
-Starting in August 2023, I started an internship with Progressive Insurance. Here, I am working in a team of 7 other contracted students from Case. We are developing a software solution to manage frontline employee stress. I am working on an employee-manager chat feature using React.js and Typescript for frontend, and DataPlug and MongoDB for backend.  <br><br>
+Starting January 2024, I started on a new project with the Kansas City National Security Campus (KCNSC). Myself and a master's student are developing an open source anomaly detection package for KCNSC's virtual machines. This process includes everything from a logger data preprocessing pipeline, to training a GNN model, to the CLI and GUI. 
 
-I'm currently looking for any roles for Winter/Spring and Summer 2024. I am interested in data engineering, software development, and financial/risk analyst positions. 
+Also starting in January 2024, I joined Professor Shua Xu's Unstructured Pruning lab on campus, where I am conducting experiments to compare performance implications of applying quantization to Convolutional Neural Network models. I also help develop algorithms to manage parameter growth during the training process.
+<br><br>
 
 <h3></h3>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website about me!</a>
