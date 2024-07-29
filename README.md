@@ -5,6 +5,8 @@ I am an undergraduate student at CWRU studying computer science and mathematics.
 As I dive deeper into ML, I am documenting my progress as I learn in my "Intro to ML" repo (pinned). 
 
 ### Experience
+- Palo.ai
+  - Cofounder of LLM Langchain startup. Rapidly developing and planning to go live in 2025.
 - MISCO Refractometer
   - Data Analysis and Process Flow Engineering
 - Kernel Pruning Lab
