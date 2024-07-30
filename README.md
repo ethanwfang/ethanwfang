@@ -2,7 +2,7 @@
 ### Profile
 I am an undergraduate student at CWRU studying computer science and mathematics. I am heavily interested in math theory, machine learning, and quant research.
 
-As I dive deeper into ML, I am documenting my progress as I learn in my "Intro to ML" repo (pinned). 
+As I dive deeper into ML, I am documenting my progress as I learn in my "Intro to ML" repo (pinned). I am currently working on Palo.ai, an intelligent virtual assistant aiming to address an issue in corporate companies. 
 
 ### Experience
 - Palo.ai
@@ -19,6 +19,9 @@ As I dive deeper into ML, I am documenting my progress as I learn in my "Intro t
 - Case Western Reserve University
   - Class of 2026. B.S. Computer Science, Secondary Major in Mathematics, Finance minor.
   - Concentrating in AI and Algorithm Theory
+ 
+### About me
+Outside of my career, I enjoy playing tennis, running, traveling, reading, and trying new foods.
   
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
