@@ -15,6 +15,11 @@ As I dive deeper into ML, I am documenting my progress as I learn in my "Intro t
   - Worked on 2 teams here. First year was spent doing <a href = "https://pypi.org/project/XRDimage/">computer vision research</a> on XRD data. My second year was spent doing anomaly detection
     on Windows Logging Service data using GNNs.
 
+### Education
+- Case Western Reserve University
+  - Class of 2026. B.S. Computer Science, Secondary Major in Mathematics, Finance minor.
+  - Concentrating in AI and Algorithm Theory
+  
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
   
