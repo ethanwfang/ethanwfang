@@ -4,6 +4,8 @@ I am an undergraduate student at CWRU studying computer science and mathematics.
 
 As I dive deeper into ML, I am documenting my progress as I learn in my "Intro to ML" repo (pinned). I am currently working on Palo.ai, an intelligent virtual assistant aiming to address an issue in corporate companies. 
 
+A few classmates and I are launching CWRUQuants, a quantitative finance club at Case Western Reserve University. Our goal is to bring people together to learn and develop skills at the intersection of mathematics, finance, and computer science.
+
 ### Experience
 - Palo.ai
   - Cofounder of LLM Langchain startup. Rapidly developing and planning to go live in 2025.
