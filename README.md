@@ -7,6 +7,8 @@ As I dive deeper into ML, I am documenting my progress as I learn in my "Intro t
 A few classmates and I are launching CWRUQuants, a quantitative finance club at Case Western Reserve University. Our goal is to bring people together to learn and develop skills at the intersection of mathematics, finance, and computer science.
 
 ### Experience
+- KeyBank
+  - Incoming Quant Intern
 - Palo.ai
   - Cofounder of LLM Langchain startup. Rapidly developing and planning to go live in 2025.
 - MISCO Refractometer
