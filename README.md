@@ -4,7 +4,7 @@ I am an undergraduate student at CWRU studying computer science and mathematics.
 
 Check out my pinned repos for stuff I am passionate about.
 
-This Fall 2024 semester, a few classmates and I lauched CWRUQuants, Case's first and only quantitative finance club. 
+This Fall 2024 semester, a few classmates and I lauched <a href = "https://github.com/cwruquants">CWRUQuants</a>, Case's first and only quantitative finance club. 
 
 ### Experience
 - KeyBank (Summer 2025)
