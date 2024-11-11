@@ -29,7 +29,7 @@ Outside of my career, I enjoy playing tennis, running, traveling, reading, and t
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
 
-<h5>Last Updated: October 19th, 2024</h5>
+<h5>Last Updated: November 10th, 2024</h5>
   
 
 
