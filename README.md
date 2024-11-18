@@ -9,8 +9,6 @@ This Fall 2024 semester, a few classmates and I lauched <a href = "https://githu
 ### Experience
 - KeyBank (Summer 2025)
   - Incoming Quant Intern
-- Palo.ai (Current)
-  - Cofounder of LLM Langchain startup. Rapidly developing and planning to go live in 2025.
 - Kernel Pruning Lab (Current)
   - CNN unstructured pruning algorithms, quantization testing
 - MISCO Refractometer (Summer 2024)
@@ -21,7 +19,7 @@ This Fall 2024 semester, a few classmates and I lauched <a href = "https://githu
 
 ### Education
 - Case Western Reserve University
-  - Class of 2026. B.S. Computer Science, M.S. Computer Science, Finance and Math minors
+  - Class of 2026. B.S./M.S. Computer Science, Finance and Math minors
  
 ### About me
 Outside of my career, I enjoy playing tennis, running, traveling, reading, and trying new foods.
@@ -29,7 +27,7 @@ Outside of my career, I enjoy playing tennis, running, traveling, reading, and t
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
 
-<h5>Last Updated: November 10th, 2024</h5>
+<h5>Last Updated: November 18th, 2024</h5>
   
 
 
