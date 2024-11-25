@@ -17,6 +17,13 @@ This Fall 2024 semester, a few classmates and I lauched <a href = "https://githu
   - Worked on 2 teams here. First year was spent doing <a href = "https://pypi.org/project/XRDimage/">computer vision research</a> on XRD data. My second year was spent doing anomaly detection
     on Windows Logging Service data using GNNs.
 
+### Publications
+#### 2024
+<b>Perpetual Text Generation using Dynamic Temperature Adjustment</b>   
+Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
+<i>Preprint</i>    
+<a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">BlogPost</a>
+
 ### Education
 - Case Western Reserve University
   - Class of 2026. B.S./M.S. Computer Science, Finance and Math minors
@@ -27,7 +34,7 @@ Outside of my career, I enjoy playing tennis, running, traveling, reading, and t
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
 
-<h5>Last Updated: November 18th, 2024</h5>
+<h5>Last Updated: November 25th, 2024</h5>
   
 
 
