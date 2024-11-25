@@ -18,8 +18,7 @@ This Fall 2024 semester, a few classmates and I lauched <a href = "https://githu
     on Windows Logging Service data using GNNs.
 
 ### Publications
-#### 2024
-<b>Perpetual Text Generation using Dynamic Temperature Adjustment</b>   
+<b>(2024) Perpetual Text Generation using Dynamic Temperature Adjustment</b>   
 Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
 <i>Preprint</i>    
 <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">BlogPost</a>
