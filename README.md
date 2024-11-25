@@ -10,7 +10,7 @@ This Fall 2024 semester, a few classmates and I lauched <a href = "https://githu
 - KeyBank (Summer 2025)
   - Incoming Quant Intern
 - Kernel Pruning Lab (Current)
-  - CNN unstructured pruning algorithms, quantization testing
+  - CNN unstructured pruning algorithms, quantization testing, LLMs
 - MISCO Refractometer (Summer 2024)
   - Spent the first half of internship doing process flow engineering and data analytics. I spent the second half working on the new WatchLINK device firmware and error handling.
 - Solar Durability and Lifetime Extension Center (Oct 2022 to August 2024)
