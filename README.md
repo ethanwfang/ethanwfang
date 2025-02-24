@@ -6,7 +6,7 @@ This Fall 2024 semester, a few classmates and I lauched <a href = "https://githu
 
 <b>Perpetual Text Generation using Dynamic Temperature Adjustment (2024)</b>   
 Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
-<i>Preprint</i>    
+<i>Preprint, ICLR BlogPost Passing Score, Rejected</i>    
 <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">BlogPost</a>
 
 ### Education
