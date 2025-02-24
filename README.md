@@ -5,10 +5,11 @@ I am a BS/MS student at CWRU studying computer science and mathematics. I am hea
 This Fall 2024 semester, a few classmates and I lauched <a href = "https://github.com/cwruquants">CWRUQuants</a>, Case's first and only quantitative finance club. 
 
 <b>Perpetual Text Generation using Dynamic Temperature Adjustment (2024)</b>   
+(ICLR passing score, not selected for publication)   
 Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
 <i>Preprint</i>    
 <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">BlogPost</a>   
-(Received passing score at ICLR BlogPost submission, but not selected for publication.)
+
 
 ### Education
 - Case Western Reserve University
