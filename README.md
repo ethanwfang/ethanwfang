@@ -19,7 +19,7 @@ Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
 
-<h5>Last Updated: Feruary 24, 2025</h5>
+<h5>Last Updated: February 27, 2025</h5>
   
 
 
