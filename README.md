@@ -1,6 +1,6 @@
 ## Ethan Fang's Github
 ### Profile
-I am a BS/MS student at CWRU studying computer science and mathematics. I am heavily interested in math theory, machine learning, and quant research.
+I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy learning about algorithms, the stock market, and philosophy.   
 
 I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with Professor Joon Woo Bae. I also work on various machine learning projects with Professor Xiaotian Han.
 
