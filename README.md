@@ -2,13 +2,19 @@
 ### Profile
 I am a BS/MS student at CWRU studying computer science and mathematics. I am heavily interested in math theory, machine learning, and quant research.
 
-This Fall 2024 semester, a few classmates and I lauched <a href = "https://github.com/cwruquants">CWRUQuants</a>, Case's first and only quantitative finance club. 
+I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with Professor Joon Woo Bae. I also work on various machine learning projects with Professor Xiaotian Han.
+
+### Publications
 
 <b>Perpetual Text Generation using Dynamic Temperature Adjustment (2024)</b>   
-(ICLR passing score, not selected for publication)   
 Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
-<i>Preprint</i>    
+<i>Preprint</i> (Recieved ICLR passing score)      
 <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">BlogPost</a>   
+
+<b>Are radioactive wildfires next on California’s apocalyptic climate-change guest list? (2021)</b>    
+Ethan Fang   
+<i>Accepted for Publication</i>    
+<a href="https://www.sfchronicle.com/opinion/openforum/article/Are-radioactive-wildfires-the-next-on-16737625.php">Article</a>
 
 
 ### Education
@@ -19,7 +25,7 @@ Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/index.html">Personal Website</a>
 
-<h5>Last Updated: February 27, 2025</h5>
+<h5>Last Updated: March 1, 2025</h5>
   
 
 
