@@ -2,7 +2,7 @@
 ### Profile
 I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy learning about algorithms, the stock market, and philosophy.   
 
-I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with Professor Joon Woo Bae. I also work on various machine learning projects with Professor Xiaotian Han.
+I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>.
 
 ### Publications
 
