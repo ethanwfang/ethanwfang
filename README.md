@@ -19,7 +19,7 @@ Ethan Fang
 
 ### Education
 - Case Western Reserve University
-  - Class of 2026. B.S./M.S. Computer Science, Finance and Math minors
+  - Class of 2026. B.S./M.S. Computer Science
 
   
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
