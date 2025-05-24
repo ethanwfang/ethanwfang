@@ -16,16 +16,11 @@ Ethan Fang
 <i>Accepted for Publication</i>    
 <a href="https://www.sfchronicle.com/opinion/openforum/article/Are-radioactive-wildfires-the-next-on-16737625.php">Article</a>
 
-
-### Education
-- Case Western Reserve University
-  - Class of 2026. B.S./M.S. Computer Science
-
   
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/website/">Personal Website</a>
 
-<h5>Last Updated: April 7, 2025</h5>
+<h5>Last Updated: May 23, 2025</h5>
   
 
 
