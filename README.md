@@ -4,6 +4,14 @@ I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy 
 
 I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>.
 
+### Experience
+- Clarity Markets
+- Vantura
+- KeyBank
+- Misco
+- Various CWRU Research Labs
+- SDLE
+
 ### Publications
 
 <b>Perpetual Text Generation using Dynamic Temperature Adjustment (2024)</b>   
