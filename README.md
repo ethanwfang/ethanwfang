@@ -28,7 +28,7 @@ Ethan Fang
 
   
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
-<a href = "https://ethanwfang.github.io/website/">Personal Website</a>
+<a href = "https://ethanwfang.github.io/website/">Personal Website</a> <br>
 <a href="https://x.com/fangweei">Twitter</a>
 
 <h5>Last Updated: Nov 21, 2025</h5>
