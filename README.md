@@ -1,10 +1,8 @@
 ## Ethan Fang's Github
 ### Profile
-I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy learning about algorithms, the stock market, and philosophy.   
+I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy learning about algorithms, the stock market, and philosophy. My experience spans ML research, financial markets, and math.
 
 I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>, <a href="https://scholar.google.com/citations?user=wu-vtI4AAAAJ&hl=en">Professor Shuai Xu</a>, and <a href="https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en">Professor Soumya Ray</a>.    
-
-My experience spans ML research, financial markets, and math. I love learning about everything and anything.   
 
 #### Currently:
 - Growth @ <a href="https://www.clarity-markets.com/">Clarity Markets</a>
