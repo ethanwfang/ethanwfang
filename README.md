@@ -8,7 +8,7 @@ My experience spans ML research, financial markets, and math. I love learning ab
 
 #### Currently:
 - Growth @ <a href="https://www.clarity-markets.com/">Clarity Markets</a>
-- Cofounder @ <a href="vantura.ai">Vantura (FU11)</a>
+- Cofounder @ <a href="https://vantura.ai/">Vantura (FU11)</a>
 - Quant @ KeyBank
 - Working on Master's thesis (S26)
 #### Past Experience
