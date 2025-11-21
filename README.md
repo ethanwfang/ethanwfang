@@ -7,8 +7,8 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 My experience spans ML research, financial markets, and math. I love learning about everything and anything.   
 
 #### Currently:
-- Growth @ Clarity Markets 
-- Cofounder @ Vantura (FU11)
+- Growth @ <a href="https://www.clarity-markets.com/">Clarity Markets</a>
+- Cofounder @ <a href="vantura.ai">Vantura (FU11)</a>
 - Quant @ KeyBank
 - Working on Master's thesis (S26)
 #### Past Experience
