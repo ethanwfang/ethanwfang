@@ -2,15 +2,19 @@
 ### Profile
 I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy learning about algorithms, the stock market, and philosophy.   
 
-I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>.
+I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>, <a href="https://scholar.google.com/citations?user=wu-vtI4AAAAJ&hl=en">Professor Shuai Xu</a>, and <a href="https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en">Professor Soumya Ray</a>.    
 
-### Experience
-- Clarity Markets
-- Vantura
-- KeyBank
-- Misco
-- Various CWRU Research Labs
-- SDLE
+My experience spans ML research, financial markets, and math. I love learning about everything and anything.   
+
+#### Currently:
+- Growth @ Clarity Markets 
+- Cofounder @ Vantura (FU11)
+- Quant @ KeyBank
+- Working on Master's thesis (S26)
+#### Past Experience
+- Engineer Intern @ Misco 
+- Research @ Various CWRU Research Labs
+- Research @ SDLE
 
 ### Publications
 
@@ -27,8 +31,9 @@ Ethan Fang
   
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 <a href = "https://ethanwfang.github.io/website/">Personal Website</a>
+<a href="https://x.com/fangweei">Twitter</a>
 
-<h5>Last Updated: May 23, 2025</h5>
+<h5>Last Updated: Nov 21, 2025</h5>
   
 
 
