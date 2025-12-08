@@ -14,7 +14,7 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 - August 2024 - Me and 4 of the smartest people I know at Case start <a href="https://github.com/cwruquants">CWRU Quants</a>!
 - June 2024 - Start intern with <a href="https://www.misco.com/">Misco Refractometer</a> doing Mechanical Engineering work.
 - December 2023 - I start working with Professor Xu in the Pruning Lab!
-- July 2023 - I publish my first PyPI package, XRDImage!
+- July 2023 - I publish my first PyPI package, <a href="https://pypi.org/project/XRDimage/">XRDImage</a>!
 - August 2022 - I join my first research lab, SDLE!
 - August 2022 - I start college at CWRU
 
