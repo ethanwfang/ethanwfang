@@ -4,15 +4,19 @@ I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy 
 
 I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>, <a href="https://scholar.google.com/citations?user=wu-vtI4AAAAJ&hl=en">Professor Shuai Xu</a>, and <a href="https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en">Professor Soumya Ray</a>.    
 
-#### Currently:
-- Growth @ <a href="https://www.clarity-markets.com/">Clarity Markets</a>
-- Cofounder @ <a href="https://vantura.ai/">Vantura (FU11)</a>
-- Quant @ KeyBank
-- Working on Master's thesis (S26)
-#### Past Experience
-- Engineer Intern @ Misco 
-- Research @ Various CWRU Research Labs
-- Research @ SDLE
+### Timeline
+- October 2025 - I'm joining <a href="https://www.clarity-markets.com/">Clarity</a> as a Growth Intern!
+- Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder Om
+- August 2025 - I'm continuing with KeyBank as a Quant Intern into the school year!
+- May 2025 - Joining KeyBank as a Quant Analytics Intern
+- March 2025 - My work Perpetual Text Generation using Dynamic Temperature Adjustment receives passing score from ICLR!
+- January 2025 - I start my own quant research lab at CWRU Quants with Professor Bae.
+- August 2024 - Me and 4 of the smartest people I know at Case start CWRU Quants!
+- June 2024 - Start intern with Miscro Refractometer doing Mechanical Engineering work.
+- December 2023 - I start working with Professor Xu in the Pruning Lab!
+- July 2023 - I publish my first PyPI package, XRDImage!
+- August 2022 - I join my first research lab, SDLE!
+- August 2022 - I start college at CWRU
 
 ### Publications
 
