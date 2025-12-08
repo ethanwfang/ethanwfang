@@ -6,6 +6,7 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 
 ### Timeline
 - October 2025 - I'm joining <a href="https://www.clarity-markets.com/">Clarity</a> as a Growth Intern!
+- September 2025 - Vantura joins LAUNCH's <a href="https://founder.university/">Founder University</a>
 - Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder Om
 - August 2025 - I'm continuing with KeyBank as a Quant Intern into the school year!
 - May 2025 - Joining KeyBank as a Quant Analytics Intern
@@ -35,7 +36,7 @@ Ethan Fang
 <a href = "https://ethanwfang.github.io/website/">Personal Website</a> <br>
 <a href="https://x.com/fangweei">Twitter</a>
 
-<h5>Last Updated: Nov 21, 2025</h5>
+<h5>Last Updated: December 8, 2025</h5>
   
 
 
