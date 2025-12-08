@@ -9,10 +9,10 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 - Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder Om
 - August 2025 - I'm continuing with KeyBank as a Quant Intern into the school year!
 - May 2025 - Joining KeyBank as a Quant Analytics Intern
-- March 2025 - My work Perpetual Text Generation using Dynamic Temperature Adjustment receives passing score from ICLR!
+- March 2025 - My work <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">Perpetual Text Generation using Dynamic Temperature Adjustment</a> receives passing score from ICLR!
 - January 2025 - I start my own quant research lab at CWRU Quants with Professor Bae.
-- August 2024 - Me and 4 of the smartest people I know at Case start CWRU Quants!
-- June 2024 - Start intern with Miscro Refractometer doing Mechanical Engineering work.
+- August 2024 - Me and 4 of the smartest people I know at Case start <a href="https://github.com/cwruquants">CWRU Quants</a>!
+- June 2024 - Start intern with <a href="https://www.misco.com/">Misco Refractometer</a> doing Mechanical Engineering work.
 - December 2023 - I start working with Professor Xu in the Pruning Lab!
 - July 2023 - I publish my first PyPI package, XRDImage!
 - August 2022 - I join my first research lab, SDLE!
