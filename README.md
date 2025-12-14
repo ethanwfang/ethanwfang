@@ -18,7 +18,7 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 - June 2024 - Start intern with <a href="https://www.misco.com/">Misco Refractometer</a> doing Mechanical Engineering work.
 - December 2023 - I start working with Professor Xu in the Pruning Lab!
 - July 2023 - I publish my first PyPI package, <a href="https://pypi.org/project/XRDimage/">XRDImage</a>!
-- August 2022 - I join my first research lab, SDLE!
+- August 2022 - I join my first research lab, <a href="https://engineering.case.edu/centers/sdle">SDLE</a>!
 - August 2022 - I start college at CWRU
 
 ### Publications
@@ -38,7 +38,7 @@ Ethan Fang
 <a href = "https://ethanwfang.github.io/website/">Personal Website</a> <br>
 <a href="https://x.com/fangweei">Twitter</a>
 
-<h5>Last Updated: December 8, 2025</h5>
+<h5>Last Updated: December 14, 2025</h5>
   
 
 
