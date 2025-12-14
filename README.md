@@ -7,7 +7,7 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 ### Timeline
 - October 2025 - I'm joining <a href="https://www.clarity-markets.com/">Clarity</a> as a Growth Intern!
 - September 2025 - Vantura joins LAUNCH's <a href="https://founder.university/">Founder University</a>
-- Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder Om
+- Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder <a href="https://www.linkedin.com/in/om-mistry812">Om</a>
 - August 2025 - I continue with CWRU Quants as President for the 2025-2026 school year.
 - August 2025 - I'm continuing with KeyBank as a Quant Intern into the school year!
 - May 2025 - Joining KeyBank as a Quant Analytics Intern
