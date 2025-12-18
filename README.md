@@ -5,7 +5,6 @@ I am a BS/MS student at CWRU studying computer science and mathematics. I enjoy 
 I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>, <a href="https://scholar.google.com/citations?user=wu-vtI4AAAAJ&hl=en">Professor Shuai Xu</a>, and <a href="https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en">Professor Soumya Ray</a>.    
 
 ### Timeline
-- October 2025 - I'm joining <a href="https://www.clarity-markets.com/">Clarity</a> as a Growth Intern!
 - September 2025 - Vantura joins LAUNCH's <a href="https://founder.university/">Founder University</a>
 - Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder <a href="https://www.linkedin.com/in/om-mistry812">Om</a>
 - August 2025 - I continue with CWRU Quants as President for the 2025-2026 school year.
