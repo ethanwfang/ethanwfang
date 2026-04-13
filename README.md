@@ -5,6 +5,8 @@ I study computer science at CWRU, graduating May 2026.
 I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>, <a href="https://scholar.google.com/citations?user=wu-vtI4AAAAJ&hl=en">Professor Shuai Xu</a>, and <a href="https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en">Professor Soumya Ray</a>.    
 
 ### Timeline
+- April 2026 - Vantura incorporates
+- March 2026 - Vantura receives 33 mil grant from ElevenLabs
 - February 2026 - Vantura receives first micro grant from Veale Centre of Entrepreneurship
 - September 2025 - Vantura joins LAUNCH's <a href="https://founder.university/">Founder University</a>
 - Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder <a href="https://www.linkedin.com/in/om-mistry812">Om</a>
@@ -38,7 +40,7 @@ Ethan Fang
 <a href = "https://ethanwfang.github.io/website/">Personal Website</a> <br>
 <a href="https://x.com/fangweei">Twitter</a>
 
-<h5>Last Updated: February 25, 2026</h5>
+<h5>Last Updated: April 14, 2026</h5>
   
 
 
