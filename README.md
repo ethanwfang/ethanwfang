@@ -6,7 +6,7 @@ I run my own quant research lab under <a href = "https://github.com/cwruquants">
 
 ### Timeline
 - April 2026 - Vantura incorporates
-- March 2026 - Vantura receives 33 mil grant from ElevenLabs
+- March 2026 - Vantura receives 33 million credit grant from ElevenLabs
 - February 2026 - Vantura receives first micro grant from Veale Centre of Entrepreneurship
 - September 2025 - Vantura joins LAUNCH's <a href="https://founder.university/">Founder University</a>
 - Setember 2025 - Starting <a href="https://vantura.ai/">Vantura<a> with cofounder <a href="https://www.linkedin.com/in/om-mistry812">Om</a>
