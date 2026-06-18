@@ -1,8 +1,7 @@
 ## Ethan Fang's Github
-### Profile
-I study computer science at CWRU, graduating May 2026.   
+Welcome, check out my full profile on my <a href = "https://ethanwfang.github.io/website/">portfolio</a>.
 
-I run my own quant research lab under <a href = "https://github.com/cwruquants">CWRUQuants</a> with <a href="https://case.edu/weatherhead/about/faculty-and-staff-directory/joon-woo-bae"> Professor Joon Woo Bae </a>. I also work on various machine learning projects with <a href="https://ahxt.github.io/">Professor Xiaotian Han</a>, <a href="https://scholar.google.com/citations?user=wu-vtI4AAAAJ&hl=en">Professor Shuai Xu</a>, and <a href="https://scholar.google.com/citations?user=T3Wxu_AAAAAJ&hl=en">Professor Soumya Ray</a>.    
+<a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 
 ### Timeline
 - Juen 2026 - Following successful launch, I leave Vantura to focus more on my research.
@@ -36,11 +35,6 @@ Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary
 Ethan Fang   
 <i>Accepted for Publication</i>    
 <a href="https://www.sfchronicle.com/opinion/openforum/article/Are-radioactive-wildfires-the-next-on-16737625.php">Article</a>
-
-  
-<a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
-<a href = "https://ethanwfang.github.io/website/">Personal Website</a> <br>
-<a href="https://x.com/fangweei">Twitter</a>
 
 <h5>Last Updated: June 18, 2026</h5>
   
