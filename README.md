@@ -1,5 +1,5 @@
 ## Ethan Fang's Github
-Welcome, check out my full profile on my <a href = "https://ethanwfang.github.io/website/">portfolio</a>.
+Welcome, check out my full profile on my <a href = "https://ethanwfang.github.io/">portfolio</a>.
 
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 
