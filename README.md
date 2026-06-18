@@ -4,7 +4,7 @@ Welcome, check out my full profile on my <a href = "https://ethanwfang.github.io
 <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
 
 ### Timeline
-- Juen 2026 - Following successful launch, I leave Vantura to focus more on my research.
+- June 2026 - Following successful launch and 500+ daily users, I leave Vantura to focus more on my research.
 - May 2026 - Following graduation, I join KeyBank Lead Quantitative Analytics Associate!
 - April 2026 - Vantura incorporates
 - March 2026 - Vantura receives 33 million credit grant from ElevenLabs
