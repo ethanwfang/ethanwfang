@@ -1,7 +1,5 @@
 ## Ethan Fang's Github
-Check out my full profile on my <a href = "https://ethanwfang.github.io/">portfolio</a>.
-
-<a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a> <br>
+Learn more about me at my <a href = "https://ethanwfang.github.io/">portfolio</a>, or more about my work experience on my <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a>.
 
 ### Publications
 
@@ -15,7 +13,7 @@ Ethan Fang
 <i>Accepted for Publication</i>    
 <a href="https://www.sfchronicle.com/opinion/openforum/article/Are-radioactive-wildfires-the-next-on-16737625.php">Article</a>
 
-<h5>Last Updated: September 11, 2026</h5>
+<h5>Last Updated: October 12, 2026</h5>
   
 
 
