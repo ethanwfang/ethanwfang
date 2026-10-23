@@ -3,7 +3,7 @@ Learn more about me at my <a href = "https://ethanwfang.github.io/">portfolio</a
 
 ### Publications
 <b>Foundation Models for Differential Equations (2026)</b>  
-<i>Under double blind review</i>👀
+<i>Under double blind review</i>  👀
 
 <b>Perpetual Text Generation using Dynamic Temperature Adjustment (2024)</b>   
 Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
