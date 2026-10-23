@@ -5,7 +5,7 @@ Learn more about me at my <a href = "https://ethanwfang.github.io/">portfolio</a
 
 <b>Perpetual Text Generation using Dynamic Temperature Adjustment (2024)</b>   
 Mohsen Hariri, Ethan W Fang, Xiaotian Han, Shuai Xu, Vipin Chaudhary  
-<i>Preprint</i> (Recieved ICLR passing score)      
+<i>Preprint, ICLR score 6</i>     
 <a href="https://d2jud02ci9yv69.cloudfront.net/2025-04-28-perpetual-text-129/blog/perpetual-text/">BlogPost</a>   
 
 <b>Are radioactive wildfires next on California’s apocalyptic climate-change guest list? (2021)</b>    
