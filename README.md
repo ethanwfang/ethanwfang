@@ -1,5 +1,5 @@
 ## Ethan Fang's Github
-Learn more about me at my <a href = "https://ethanwfang.github.io/">portfolio</a>, or more about my work experience on my <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a>.
+More interesting stuff on my <a href = "https://ethanwfang.github.io/">portfolio</a>. More boring stuff on my <a href="https://www.linkedin.com/in/ethanwfang/">LinkedIn</a>.
 
 ### Publications
 <b>Foundation Models for Differential Equations (2026)</b>  
