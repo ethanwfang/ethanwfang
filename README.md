@@ -15,7 +15,7 @@ Ethan Fang
 <i>Accepted for Publication</i>    
 <a href="https://www.sfchronicle.com/opinion/openforum/article/Are-radioactive-wildfires-the-next-on-16737625.php">Article</a>
 
-<h5>Last Updated: October 23, 2026</h5>
+<h5>Last Updated: November 12, 2026</h5>
   
 
 
